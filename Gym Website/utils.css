@@ -1,0 +1,95 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+.flex{
+    display: flex;
+}
+.font-bold{
+    font-weight: bolder;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.mx-1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.mx-2{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.px-2{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.text-violet{
+    color: chocolate;
+}
+
+.btn{
+    padding: 7px 12px;
+    border: 2px solid white;
+    font-size: 16px;
+    border-radius: 6px;
+    color: white;
+    background-color: chocolate;
+    cursor: pointer;
+}
+
+.logo{
+    font-size: 1.8rem;
+    margin-left: 10px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.topleft h1 span{
+    color: chocolate;
+}
+
+.language{
+    font-size: 25px;
+    color: rgb(66, 66, 66);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.about-h3{
+    margin: 10px 10px;
+    padding: 5px;
+    color: chocolate;
+}
+
+.grid-1 h3{
+    margin-top: 180px;
+    padding-left: 65px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: rgb(46, 44, 44);
+}
